@@ -5,7 +5,6 @@ A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm p
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
-![focus](https://img.shields.io/badge/focus-Data-Science-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
 
@@ -32,6 +31,10 @@ A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm p
 
 
 ### Show some ❤️ by starring some of the repositories!
+
+<a href="https://dev.to/ashish12"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
+<a href="https://www.linkedin.com/in/ashish-kumar-panda-123026194"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 <a href="https://dev.to/ashish12"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
