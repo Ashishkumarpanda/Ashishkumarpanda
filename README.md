@@ -10,7 +10,7 @@ A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm p
 
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on Ai  and Data science Researchs
-- 📫 How to reach me: You may Mail me on (ashishkumarpanda257@gmail.com) 
+- 📫 How to reach me: You may Mail me on (ashishkumarpanda257@gmail.com) ,You may follow me on [Instagram](https://www.instagram.com/immanuel_ashish_jr/?hl=en),or you can connect with me on [linkedin](https://www.linkedin.com/in/ashish-kumar-panda-123026194)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I trust what i write!!
 <br />
@@ -34,6 +34,6 @@ A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm p
 
 <a href="https://dev.to/ashish12"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
-<a href="https://www.shareicon.net/data/2017/06/30/888065_logo_512x512.png"><img height="50" src="image.png"></a>
+<a href="https://www.linkedin.com/in/ashish-kumar-panda-123026194"><img height="50" src="https://www.shareicon.net/data/2017/06/30/888065_logo_512x512.png"></a>
 
 </div>
