@@ -1,12 +1,38 @@
-### Hola,I am Ashish!  👋
+# Hi Amigos, I'm Ashish! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-- 🔭 I’m currently working on Machine Learning and Deep Learning
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Ai or Data Science projects
-- 🤔 I’m looking for help with Computer vision
-- 💬 Ask me about Machine Learning,Deep Learning,Android Development,Opencv or Programming Languages(java & Python)
-- 📫 How to reach me: Gmail-ashishkumarpanda257@gmail.com
-- 😄 Pronouns: You can give one.
-- ⚡ Fun fact : I am not so good at supermario
 
-[![Linkedin link](linkedin.png)](https://www.linkedin.com/in/ashish-kumar-panda-123026194)
+A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm passionate about Artificial intelligence and creating real life solutions
+
+
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-Data-Science-brightgreen)
+![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
+
+
+- 🌱 I’m currently learning Deep learning
+- 👯 I’m looking to collaborate on Ai  and Data science Researchs
+- 📫 How to reach me: You may Mail me on (ashishkumarpanda257@gmail.com) 
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I trust what i write!!
+<br />
+
+
+### 👨‍💻 Languages and Tools
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+
+<br />
+
+### 🏆 Github Status
+
+
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=Ashishkumarpanda&show_icons=true&hide=["issues"])
+
+<div align="center">
+
+
+### Show some ❤️ by starring some of the repositories!
+
+<a href="https://dev.to/ashish12"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+
+</div>
