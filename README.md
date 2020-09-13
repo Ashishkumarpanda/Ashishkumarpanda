@@ -8,3 +8,5 @@
 - 📫 How to reach me: Gmail-ashishkumarpanda257@gmail.com
 - 😄 Pronouns: You can give one.
 - ⚡ Fun fact : I am not so good at supermario
+
+[![Linkedin link](linkedin.png)](https://www.linkedin.com/in/ashish-kumar-panda-123026194)
