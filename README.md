@@ -1,7 +1,7 @@
 # Hi Amigos, I'm Ashish! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
-A 21Y/O Ai & data Science enthusiast and Android developer🎯 from India. I'm passionate about Artificial intelligence and creating real life solutions
+An Ai & data Science enthusiast and Android developer🎯 from India. I'm passionate about Artificial intelligence and creating real life solutions
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
