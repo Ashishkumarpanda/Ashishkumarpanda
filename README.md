@@ -4,7 +4,7 @@
 An Ai & data Science enthusiast and Android developer🎯 from India. I'm passionate about Artificial intelligence and creating real life solutions
 
 
-![age](https://img.shields.io/badge/age-22-blue)
+![age](https://img.shields.io/badge/age-23-blue)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
 
