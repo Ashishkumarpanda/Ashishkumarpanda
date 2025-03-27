@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ashish Kumar Panda!
 
 ![age](https://img.shields.io/badge/age-25-blue)
-![living](https://img.shields.io/badge/living-Delhi-3c9)
+![living](https://img.shields.io/badge/living-Mumbai-3c9)
 
 🚀 I'm a software developer and the founder of [pawlo](https://www.planocast.com), based in Mumbai, India. I'm deeply passionate about Artificial Intelligence and Data Science, and I love creating real-life solutions using technology.
 
