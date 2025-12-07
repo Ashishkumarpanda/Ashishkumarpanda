@@ -3,7 +3,7 @@
 ![age](https://img.shields.io/badge/age-25-blue)
 ![living](https://img.shields.io/badge/living-Mumbai-3c9)
 
-🚀 I'm a software developer and the founder of [pawlo](https://www.planocast.com), based in Mumbai, India. I'm deeply passionate about Artificial Intelligence and Data Science, and I love creating real-life solutions using technology.
+🚀 I'm a software developer and the founder of [SelectRight]((https://selectright.onrender.com/)), based in Mumbai, India. I'm deeply passionate about Artificial Intelligence and Data Science, and I love creating real-life solutions using technology.
 
 🌱 Currently, I'm diving into the world of Deep Learning, exploring its endless possibilities.
 
